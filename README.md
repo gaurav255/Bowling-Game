@@ -12,7 +12,7 @@ Before running this application, make sure you have the following installed on y
 
 ## Setup
 
-1. Clone the repository: git clone https://github.com/your-username/bowling-game.git
+1. Clone the repository: git clone https://github.com/gaurav255/Bowling-Game.git
 
 2. Navigate to the project directory: cd bowling-game
 
